@@ -42,7 +42,6 @@ function createPost(post) {
             } else {
                 reject('Error:  Something went wrong')
             }
-
         }, 2000);
 
     })
